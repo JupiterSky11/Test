@@ -1,4 +1,4 @@
-#This is Python.  Paste into Python to run.
+#TIMER
 hello = "Hello world - this is JupiterSky, your creator. "
 forever = "true"
 ticks = 0
